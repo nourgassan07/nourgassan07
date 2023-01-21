@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 ❤️
+# 𝗛𝗲𝗹𝗹𝗼 🌷
 # Nice to see you here !
 
 
@@ -9,17 +9,17 @@
 
 
 - 💬 My name is Noor SheikhIbrahim and i'm 16 years old 
-- 💼 I'm a High school student & Competitive programming contestant
+- 💼 I am a Junior Web Developer & Junior UI/UX designer & Competitive programmer
 
-- 📈 I want to work in the field of programming such as (web developer / developer of applications and games).
-- ❤️ I love programming and robotics very much & learning programming languages
+- 📈 I am looking for a web developer internship 
+- 🌷 I am interested in vector art and self-development
  
  <br />
 
 ## 📫 How to reach me:
 
 
-- Website: [Noor.web](https://noorsheikhibrahim.000webhostapp.com/)
+- Website: [Noor'sPortfolio](http://nour07.netlify.app/)
 - Twitter: [@NourGassan](https://twitter.com/NourGassan)
 - Instagram: [@nour_gassan07](https://www.instagram.com/nour_gassan07/)
 - Linkedin: [@Noor SheikhIbrahim](linkedin.com/in/noor-sheikhibrahim)
@@ -37,7 +37,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ----------------------------------------
-## 𝗦𝘁𝗮𝘁𝘀⚡
+## 𝗦𝘁𝗮𝘁𝘀 🌷
 
 ![nourgassan07's github stats](https://github-readme-stats.vercel.app/api?username=nourgassan07&show_icons=true&theme=dracula)
 
