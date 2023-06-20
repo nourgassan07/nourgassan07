@@ -11,7 +11,7 @@
 - 💬 My name is Noor SheikhIbrahim and i'm 16 years old 
 - 💼 I am a UI/UX designer & Junior full-stack Developer & Competitive programmer
 - 📈 I have worked in many frameworks like reactjs & nodejs & dejango 
-- 🌷 I am interested in self-development
+- 🌷 I love learning new things 🦋
  
  <br />
 
