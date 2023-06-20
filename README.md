@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me:
 
-## 💌Let's be friends!
+# 💌Let's be friends!
 - Website: [Noor'sPortfolio](http://nour07.netlify.app/)
 - Twitter: [@NourGassan](https://twitter.com/NourGassan)
 - Instagram: [@nour_gassan07](https://www.instagram.com/nour_gassan07/)
