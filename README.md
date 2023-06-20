@@ -9,16 +9,15 @@
 
 
 - 💬 My name is Noor SheikhIbrahim and i'm 16 years old 
-- 💼 I am a Junior Web Developer & Junior UI/UX designer & Competitive programmer
-
-- 📈 I am looking for a web developer internship 
-- 🌷 I am interested in vector art and self-development
+- 💼 I am a UI/UX designer & Junior full-stake Developer & Competitive programmer
+- 📈 I have worked in many frameworks like reactjs & nodejs & dejango 
+- 🌷 I am interested in self-development
  
  <br />
 
 ## 📫 How to reach me:
 
-
+##💌Let's be friends!
 - Website: [Noor'sPortfolio](http://nour07.netlify.app/)
 - Twitter: [@NourGassan](https://twitter.com/NourGassan)
 - Instagram: [@nour_gassan07](https://www.instagram.com/nour_gassan07/)
