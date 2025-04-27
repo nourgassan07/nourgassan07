@@ -8,7 +8,7 @@
 <br />
 
 
-- 💬 My name is Noor SheikhIbrahim and i'm 17 years old 
+- 💬 My name is Noor SheikhIbrahim and i'm 19 years old 
 - 💼 I am a UI/UX designer & Junior full-stack Developer & Competitive programmer
 - 📈 I have worked in many frameworks like reactjs & nodejs & Django 
 - 🌷 I love learning new things 🦋
@@ -20,7 +20,7 @@
 ### 💌Let's be friends!
 - Website: [Noor'sPortfolio](https://noorgassan07.netlify.app/)
 - Twitter: [@NourGassan](https://twitter.com/NourGassan)
-- Instagram: [@nour_gassan07](https://www.instagram.com/nour_gassan07/)
+- Instagram: [@nour_gassan07](https://www.instagram.com/noor_gassan07/)
 - Linkedin: [@Noor SheikhIbrahim](linkedin.com/in/noor-sheikhibrahim)
 - Gmail:  [noor.gassan07@gmail.com]()
   
